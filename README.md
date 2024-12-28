@@ -36,7 +36,6 @@ What is procedure - we call the function inside the function & breakdown the pro
 - class - blueprint which followed object
 - class - design of the object. without design we cant build object
 
-![image.png](attachment:image.png)
 
 
 - # FUNCTION -->
@@ -46,7 +45,7 @@ What is procedure - we call the function inside the function & breakdown the pro
 - e.g if you want to operate payment operation in that you need to multiple statement all that statement keep it together & re useable later. 
 - all the statment of the tasks are stays together thats why we are creation function
 
-- # FUNCTION -->
+
 - Inbuild function  -- print(), type(), id(), sqrt() etc
 - User defined function 
 - function is collection of statement
