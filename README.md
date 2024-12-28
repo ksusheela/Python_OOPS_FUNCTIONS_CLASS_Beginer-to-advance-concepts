@@ -35,3 +35,21 @@ What is procedure - we call the function inside the function & breakdown the pro
 - Phone is the instance of the class Phone design
 - class - blueprint which followed object
 - class - design of the object. without design we cant build object
+
+![image.png](attachment:image.png)
+
+
+- # FUNCTION -->
+- why do we need function lets understan one scenario you might be workion on simple or complex project
+- when you work on complex project break down complex project to smaller task . 
+- when you talk about smaller task of course you need to writing multiple statement.
+- e.g if you want to operate payment operation in that you need to multiple statement all that statement keep it together & re useable later. 
+- all the statment of the tasks are stays together thats why we are creation function
+
+- # FUNCTION -->
+- Inbuild function  -- print(), type(), id(), sqrt() etc
+- User defined function 
+- function is collection of statement
+- 2 main property of the function is -- define the function & calling the function 
+- function always define with def & function always declares as ()
+difference between variable & function || a - variable || b() - function 
