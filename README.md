@@ -1,4 +1,14 @@
 # Python_OOPS_FUNCTIONS_CLASS_Beginer-to-advance-concepts
+
+# OOPS CONCEPT 
+- CLASS
+- OBJECT
+- METHOD
+- INHERITENCE
+- ENCAPSULATION 
+- ABSTRACTION
+- POLYMORPHISM
+
 PYTHON OBJECT ORIENTED PROGRAMMING
 
 Next move towards concept & one of the concept is OOPS concept
